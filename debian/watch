@@ -1,0 +1,4 @@
+version=4
+opts="" \
+ https://gitlab.com/WillDaSilva/flit_scm/tags \
+ (?:.*?/)flit_scm-?v?@ANY_VERSION@@ARCHIVE_EXT@
